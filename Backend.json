@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_673_Athena_Commando_F_ArcticCamo_Slate"],
-    "price": 800
+    "itemGrants": ["CID_434_Athena_Commando_F_StealthHonor"],
+    "price": 1800
   },
   "daily2": {
-    "itemGrants": ["AthenaBackpack:BID_270_StreetDemon"],
-    "price": 200
+    "itemGrants": ["CID_271_Athena_Commando_F_SushiChef"],
+    "price": 1400
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_209_DonutPlate"],
-    "price": 500
+    "itemGrants": ["Pickaxe_ID_102_RedRiding"],
+    "price": 1000
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_ArtGiant"],
-    "price": 500
+    "itemGrants": ["MusicPack_048_SpyRemix"],
+    "price": 300
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
-    "price": 2500
+    "itemGrants": ["CID_598_Athena_Commando_M_Mastermind"],
+    "price": 2000
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_SquishyDance"],
-    "price": 500
+    "itemGrants": ["BID_003_RedKnight"],
+    "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion"],
-    "price": 1200
+    "itemGrants": ["EID_IndigoApple"],
+    "price": 600
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_648_Athena_Commando_F_MsAlpine"],
+    "itemGrants": ["Pickaxe_ID_092_Bling"],
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_143_FlintlockWinter"],
+    "itemGrants": ["Glider_ID_014_Dragon"],
     "price": 1500
   }
 }
