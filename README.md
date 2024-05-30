@@ -1,12 +1,12 @@
-CID_683_Athena_Commando_F_TigerFashion, 1500
-CID_648_Athena_Commando_F_MsAlpine, 1500
-Pickaxe_ID_143_FlintlockWinter, 1200
+CID_434_Athena_Commando_F_StealthHonor, 1800
+CID_271_Athena_Commando_F_SushiChef, 1400
+Pickaxe_ID_102_RedRiding, 1000
 na
 na
 na
-EID_SquishyDance, 500
-Pickaxe_ID_294_CandyCane, 2500
-BID_270_StreetDemon, 500
-EID_ArtGiant, 500
-Glider_ID_209_DonutPlate, 1200
-CID_673_Athena_Commando_F_ArcticCamo_Slate, 800
+EID_IndigoApple, 600
+Pickaxe_ID_092_Bling, 1500
+Glider_ID_014_Dragon, 2200
+BID_003_RedKnight, 800
+CID_598_Athena_Commando_M_Mastermind, 2000
+MusicPack_048_SpyRemix, 300
